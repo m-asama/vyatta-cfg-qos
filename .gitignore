@@ -16,6 +16,8 @@ debian/vyatta-cfg-qos
 debian/vyatta-cfg-qos-serial
 debian/*.debhelper.log
 debian/*.substvars
+debian/.debhelper/
+debian/changelog.*
 INSTALL
 Makefile.in
 Makefile
